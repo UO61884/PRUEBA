@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 # encoding: utf-8
-
+# CAMBIO
 #ej:3 Realizar una función que calcule  num1^num2 (ambos pasados como parametro)
 
 print "Escribe un número:"
