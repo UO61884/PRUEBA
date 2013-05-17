@@ -17,3 +17,4 @@ while (num2 > 1)
 end
 
 print "#{num1} ^ #{num2} = #{resultado}\n"
+print "bye, bye"
